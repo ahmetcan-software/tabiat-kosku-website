@@ -1,0 +1,115 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .sliderWrapper {
+    width: 100%;
+    height: 600px;
+    margin-top: -25px;
+  }
+  
+  .hakkimizStyle {
+    background-color: #f2f2f2;
+  }
+  
+  .düzcizgi {
+    border: none;
+    border-top: 3px solid #000000;
+    margin: 20px 400px;
+    margin-top: 40px;
+  }
+  
+  .ibeyaz {
+    color: #000000;
+    position: relative;
+    top: -55px;
+    font-size: 35px;
+    border: 13px solid #f2f2f2;
+    background-color: #f2f2f2;
+  }
+  
+  .igri {
+    color: black;
+    position: relative;
+    top: -55px;
+    font-size: 35px;
+    border: 13px solid white;
+    background-color: #ffff;
+  }
+  
+  .galeri {
+    background-color: #f2f2f2;
+  }
+  
+  .figure img {
+    opacity: 1;
+    transition: 0.3;
+  }
+  
+  .figure img:hover {
+    opacity: 0.9;
+  }
+  
+  .iletişim {
+    background-color: #ffff;
+  }
+  
+  .formWrapper {
+    max-width: 50%;
+    text-align: center;
+  }
+  
+  .form-control {
+    border: 0.1px solid black;
+    box-shadow: 5px 5px 5px;
+    margin-top: 20px;
+  }
+
+.soyİ{
+
+    margin-top: 15px;
+}
+
+
+
+  
+  .form-group4 {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: inline-block;
+    
+  }
+
+.submit{
+
+    margin-top: 70px;
+    background-color: black;
+    width: 200px;
+}  
+
+.clear{
+
+    margin-top: 70px;
+    background-color: black;
+}  
+
+.kutu{
+    display: inline-block;
+    position: relative;
+    width: 60%;
+    margin-top: -10px;
+    height: 100px;
+}
+
+.renk:hover {
+     color: greenyellow
+  }
+ 
+
+.siyah:hover{
+    color: greenyellow !important;
+}
